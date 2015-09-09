@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            RuleFifteenZeroTwo.Execute(args[0] as string);
         }
     }
 }
